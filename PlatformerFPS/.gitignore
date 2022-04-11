@@ -1,0 +1,6 @@
+.vs/
+x64/
+resources/*.png
+resources/*.jpg
+resources/*.jpeg
+resources/*.obj

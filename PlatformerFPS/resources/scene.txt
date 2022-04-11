@@ -1,0 +1,26 @@
+path resources/
+
+m cubemap.png skyCube.obj skybox 0.0,0.0,0.0|0.0,0.0,0.0|25069.0,25069.0,25069.0
+# m testAlpha.png quad.obj ui 0.0,0.0,3.0|0.0,0.0,0.0|4.0,4.0,4.0
+# m blank.png quad.obj ui 0.0,0.0,3.001|0.0,0.0,0.0|4.0,4.0,4.0
+
+p transparent.png blank.obj skybox 0.0,0.0,0.0|0.0,0.0,0.0|1.0,1.0,1.0
+
+e red.png skyball.obj shader -1.0,0.0,2.0|0.0,0.0,0.0|1.0,1.0,1.0
+e skin_robot.png enemy.obj shader -2.0,0.0,2.0|0.0,0.0,0.0|1.0,1.0,1.0
+
+w blank.png OUISAMERE.obj shader 0.5,-0.35,-0.5|0.0,3.0,0.0|10.0,10.0,10.0
+
+pl gras.jpg cube.obj shader 0.0,-3.0,0.0|0.0,0.0,0.0|200.0,1.0,80.0
+
+pl crate.png cube.obj shader 30.0,-1.0,0.0|0.0,0.0,0.0|5.0,1.5,2.5
+pl crate.png cube.obj shader 40.0,1.0,0.0|0.0,0.0,0.0|5.0,1.5,2.5
+pl crate.png cube.obj shader 50.0,3.0,0.0|0.0,0.0,0.0|5.0,1.5,2.5
+pl crate.png cube.obj shader 60.0,5.0,0.0|0.0,0.0,0.1|5.0,1.5,2.5
+pl crate.png cube.obj shader 0.0,-3.0,90.0|0.0,0.0,0.0|5.0,1.5,15.0
+
+
+c fps p 0.0,0.75,0.0
+
+l 0 on 10.8,3.0,0.2 0.1,0.1,0.1|1.0,1.0,1.0|1.0,0.0,0.0 1.0,0.0,0.00001
+l 1 on 60.8,10.0,1.2 0.1,0.1,0.1|1.0,1.0,1.0|1.0,0.0,0.0 1.0,0.0,0.00001
