@@ -3,7 +3,6 @@
 ## <h2 id="top">Summary</h2>
 ---
 -[Currently implemented](#implements)   
--[Project UML](#architecture)  
 -[Controls](#ctrl)  
 -[Changing the scene's assets](#scene)  
 -[Additionnal notes](#notes)  
@@ -21,11 +20,6 @@
 
 
 ![V0](ScreenShots/01.gif)  
-
-## <h2 id="architecture">Project UML</h2>
----
-![UML](UML/UML_platformer.png)  
-Note: this picture of the UML might not be up to date as we modify it everytime the architecture changes, without always exporting and pushing the picture of it. You can find the most recent version [here](https://lucid.app/lucidchart/invitations/accept/inv_7613dabb-0504-42b0-9614-6adee5bc3731?viewport_loc=1232%2C-1009%2C3489%2C1759%2C0_0).  
 
 ## <h2 id="ctrl">Controls</h2>
 ---
