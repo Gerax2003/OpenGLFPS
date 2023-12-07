@@ -1,5 +1,9 @@
 # Platformer FPS
 
+## Context
+
+This is a school project I made during my first year. This project might not have the best coding practices as I was not as experienced as today, and I currently have no interest in cleaning, maintaining or improving it. It is only here to showcase my knowledge and because I enjoyed this project. The rest of this ReadMe has not been modified since the project's end, and thus, might not be up to date at some points.  
+
 ## <h2 id="top">Summary</h2>
 ---
 -[Currently implemented](#implements)   
